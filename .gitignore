@@ -1,0 +1,13 @@
+lib/
+bin/
+include/
+lib64/
+share/
+__pycache__/
+pyvenv.cfg
+music.py
+new.py
+ss.py
+debloat_log.txt
+lib64/
+README.md
